@@ -1,0 +1,3 @@
+/tmp/tmp.TZ85pmySgB/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/tmp/tmp.TZ85pmySgB/cmake-build-debug/CMakeFiles/SecondLab.dir
+/tmp/tmp.TZ85pmySgB/cmake-build-debug/CMakeFiles/edit_cache.dir

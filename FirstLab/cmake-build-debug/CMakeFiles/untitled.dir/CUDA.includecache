@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/tmp/untitled/Lab1.cu
+cuda_runtime.h
+/tmp/untitled/cuda_runtime.h
+device_launch_parameters.h
+/tmp/untitled/device_launch_parameters.h
+iostream
+-
+time.h
+-
+cstdlib
+-
+

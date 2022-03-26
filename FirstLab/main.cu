@@ -6,14 +6,13 @@
 #include <cstdlib>
 
 #define N 4*4		//number of blocks to be run
-#define M 2
+#define M 2 //
 using namespace std;
 
 //case of <<<1, 1>>> (1 block, with 1 thread)
 __global__  void multiply1_1(int *a, int *b, int *result) {
     *result = *a * *b;
 }
-
 
 //case of <<<N, 1>>> (N blocks with 1 thread per block)
 //using blockIdx.x to index into the passed array, we make each block handle
@@ -56,9 +55,7 @@ void display(int *a, int *b, int *result, int n) {
         printf("%d  x  %d  =  %d\n", a[i], b[i], result[i]);
     }
 }
-
-
-
+//
 int main(void) {
     int *a, *b, *result; // host copies of a, b, result
     int *d_a, *d_b, *d_result; // device copies of a, b, result
@@ -113,9 +110,6 @@ int main(void) {
     //printf("%d x %d = %d\n", a, b, result);
 
     display(a, b, result, N);
-
-
-
     // Cleanup
     free(a);
     free(b);

@@ -1,0 +1,3 @@
+/tmp/tmp.E1kpUQECCX/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/tmp/tmp.E1kpUQECCX/cmake-build-debug/CMakeFiles/add_two_nums.dir
+/tmp/tmp.E1kpUQECCX/cmake-build-debug/CMakeFiles/edit_cache.dir

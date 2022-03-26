@@ -1,0 +1,1 @@
+/usr/lib/nvidia-cuda-toolkit/bin/g++   CMakeFiles/add_two_nums.dir/main.cu.o CMakeFiles/add_two_nums.dir/cmake_device_link.o -o add_two_nums  -L"/usr/lib/x86_64-linux-gnu/stubs" -lcudadevrt -lcudart_static -lrt -lpthread -ldl

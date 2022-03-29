@@ -61,7 +61,7 @@ int main(void) {
 
 
     //call the kernel, N copies of add
-    add_vector<<<N,1>>>(d_a,d_b,d_c);
+    add_vector<<<N,1>>>(d_a,d_b,d_c); //N blocks with each one thread
     //copy the result to the Host
     cudaMemcpy(c,d_c,size, cudaMemcpyDeviceToHost);
     //display the results

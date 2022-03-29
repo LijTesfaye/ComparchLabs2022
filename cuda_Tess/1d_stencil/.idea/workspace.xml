@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7251d8f6-05be-44bc-995d-726d2e773514" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../1dStencil/.idea/1dStencil.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1dStencil/.idea/deployment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1dStencil/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1dStencil/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1dStencil/.idea/other.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1dStencil/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1dStencil/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1dStencil/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1dStencil/cmake-build-debug/1dStencil.cbp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1dStencil/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1dStencil/cmake-build-debug/CMakeFiles/1dStencil.dir/DependInfo.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1dStencil/cmake-build-debug/CMakeFiles/1dStencil.dir/build.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1dStencil/cmake-build-debug/CMakeFiles/1dStencil.dir/cmake_clean.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1dStencil/cmake-build-debug/CMakeFiles/1dStencil.dir/depend.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1dStencil/cmake-build-debug/CMakeFiles/1dStencil.dir/dlink.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1dStencil/cmake-build-debug/CMakeFiles/1dStencil.dir/flags.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1dStencil/cmake-build-debug/CMakeFiles/1dStencil.dir/link.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1dStencil/cmake-build-debug/CMakeFiles/1dStencil.dir/progress.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1dStencil/cmake-build-debug/CMakeFiles/3.10.2/CMakeCUDACompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1dStencil/cmake-build-debug/CMakeFiles/3.10.2/CMakeSystem.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1dStencil/cmake-build-debug/CMakeFiles/3.10.2/CompilerIdCUDA/CMakeCUDACompilerId.cu" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1dStencil/cmake-build-debug/CMakeFiles/3.10.2/CompilerIdCUDA/tmp/CMakeCUDACompilerId.cpp1.ii" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1dStencil/cmake-build-debug/CMakeFiles/3.10.2/CompilerIdCUDA/tmp/CMakeCUDACompilerId.cpp4.ii" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1dStencil/cmake-build-debug/CMakeFiles/3.10.2/CompilerIdCUDA/tmp/CMakeCUDACompilerId.cudafe1.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1dStencil/cmake-build-debug/CMakeFiles/3.10.2/CompilerIdCUDA/tmp/CMakeCUDACompilerId.cudafe1.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1dStencil/cmake-build-debug/CMakeFiles/3.10.2/CompilerIdCUDA/tmp/CMakeCUDACompilerId.cudafe1.gpu" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1dStencil/cmake-build-debug/CMakeFiles/3.10.2/CompilerIdCUDA/tmp/CMakeCUDACompilerId.cudafe1.stub.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1dStencil/cmake-build-debug/CMakeFiles/3.10.2/CompilerIdCUDA/tmp/CMakeCUDACompilerId.fatbin.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1dStencil/cmake-build-debug/CMakeFiles/3.10.2/CompilerIdCUDA/tmp/CMakeCUDACompilerId.module_id" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1dStencil/cmake-build-debug/CMakeFiles/3.10.2/CompilerIdCUDA/tmp/CMakeCUDACompilerId.ptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1dStencil/cmake-build-debug/CMakeFiles/3.10.2/CompilerIdCUDA/tmp/a_dlink.fatbin.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1dStencil/cmake-build-debug/CMakeFiles/3.10.2/CompilerIdCUDA/tmp/a_dlink.reg.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1dStencil/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1dStencil/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1dStencil/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1dStencil/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1dStencil/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1dStencil/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1dStencil/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1dStencil/cmake-build-debug/CMakeFiles/cmake.check_cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1dStencil/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1dStencil/cmake-build-debug/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1dStencil/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1dStencil/main.cu" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThreadsAndBlocks/.idea/ThreadsAndBlocks.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThreadsAndBlocks/.idea/deployment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThreadsAndBlocks/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThreadsAndBlocks/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThreadsAndBlocks/.idea/other.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThreadsAndBlocks/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThreadsAndBlocks/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThreadsAndBlocks/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThreadsAndBlocks/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThreadsAndBlocks/cmake-build-debug/CMakeFiles/3.10.2/CMakeCUDACompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThreadsAndBlocks/cmake-build-debug/CMakeFiles/3.10.2/CMakeSystem.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThreadsAndBlocks/cmake-build-debug/CMakeFiles/3.10.2/CompilerIdCUDA/CMakeCUDACompilerId.cu" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThreadsAndBlocks/cmake-build-debug/CMakeFiles/3.10.2/CompilerIdCUDA/tmp/CMakeCUDACompilerId.cpp1.ii" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThreadsAndBlocks/cmake-build-debug/CMakeFiles/3.10.2/CompilerIdCUDA/tmp/CMakeCUDACompilerId.cpp4.ii" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThreadsAndBlocks/cmake-build-debug/CMakeFiles/3.10.2/CompilerIdCUDA/tmp/CMakeCUDACompilerId.cudafe1.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThreadsAndBlocks/cmake-build-debug/CMakeFiles/3.10.2/CompilerIdCUDA/tmp/CMakeCUDACompilerId.cudafe1.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThreadsAndBlocks/cmake-build-debug/CMakeFiles/3.10.2/CompilerIdCUDA/tmp/CMakeCUDACompilerId.cudafe1.gpu" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThreadsAndBlocks/cmake-build-debug/CMakeFiles/3.10.2/CompilerIdCUDA/tmp/CMakeCUDACompilerId.cudafe1.stub.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThreadsAndBlocks/cmake-build-debug/CMakeFiles/3.10.2/CompilerIdCUDA/tmp/CMakeCUDACompilerId.fatbin.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThreadsAndBlocks/cmake-build-debug/CMakeFiles/3.10.2/CompilerIdCUDA/tmp/CMakeCUDACompilerId.module_id" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThreadsAndBlocks/cmake-build-debug/CMakeFiles/3.10.2/CompilerIdCUDA/tmp/CMakeCUDACompilerId.ptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThreadsAndBlocks/cmake-build-debug/CMakeFiles/3.10.2/CompilerIdCUDA/tmp/a_dlink.fatbin.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThreadsAndBlocks/cmake-build-debug/CMakeFiles/3.10.2/CompilerIdCUDA/tmp/a_dlink.reg.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThreadsAndBlocks/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThreadsAndBlocks/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThreadsAndBlocks/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThreadsAndBlocks/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThreadsAndBlocks/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThreadsAndBlocks/cmake-build-debug/CMakeFiles/ThreadsAndBlocks.dir/DependInfo.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThreadsAndBlocks/cmake-build-debug/CMakeFiles/ThreadsAndBlocks.dir/build.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThreadsAndBlocks/cmake-build-debug/CMakeFiles/ThreadsAndBlocks.dir/cmake_clean.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThreadsAndBlocks/cmake-build-debug/CMakeFiles/ThreadsAndBlocks.dir/depend.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThreadsAndBlocks/cmake-build-debug/CMakeFiles/ThreadsAndBlocks.dir/dlink.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThreadsAndBlocks/cmake-build-debug/CMakeFiles/ThreadsAndBlocks.dir/flags.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThreadsAndBlocks/cmake-build-debug/CMakeFiles/ThreadsAndBlocks.dir/link.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThreadsAndBlocks/cmake-build-debug/CMakeFiles/ThreadsAndBlocks.dir/progress.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThreadsAndBlocks/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThreadsAndBlocks/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThreadsAndBlocks/cmake-build-debug/CMakeFiles/cmake.check_cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThreadsAndBlocks/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThreadsAndBlocks/cmake-build-debug/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThreadsAndBlocks/cmake-build-debug/ThreadsAndBlocks.cbp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThreadsAndBlocks/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThreadsAndBlocks/main.cu" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../introToThreads/main.cu" beforeDir="false" afterPath="$PROJECT_DIR$/../introToThreads/main.cu" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vector_additon/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../vector_additon/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vector_additon/main.cu" beforeDir="false" afterPath="$PROJECT_DIR$/../vector_additon/main.cu" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectApplicationVersion">
+    <option name="ide" value="CLion" />
+    <option name="majorVersion" value="2021" />
+    <option name="minorVersion" value="3.3" />
+  </component>
+  <component name="ProjectId" id="26yx2KcfD269BdKJyePRP0QVRAW" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="RunOnceActivity.cidr.known.project.marker" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="cidr.known.project.marker" value="true" />
+    <property name="cmake.loaded.for.project" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7251d8f6-05be-44bc-995d-726d2e773514" name="Changes" comment="" />
+      <created>1648409419450</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1648409419450</updated>
+      <workItem from="1648409422203" duration="5174000" />
+      <workItem from="1648482356145" duration="628000" />
+      <workItem from="1648540950225" duration="5635000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
